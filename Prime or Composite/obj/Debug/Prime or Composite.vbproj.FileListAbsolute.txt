@@ -1,0 +1,12 @@
+G:\Prime or Composite\bin\Debug\Prime or Composite.exe.config
+G:\Prime or Composite\bin\Debug\Prime or Composite.exe
+G:\Prime or Composite\bin\Debug\Prime or Composite.pdb
+G:\Prime or Composite\bin\Debug\Prime or Composite.xml
+G:\Prime or Composite\obj\Debug\Prime or Composite.vbproj.AssemblyReference.cache
+G:\Prime or Composite\obj\Debug\Prime or Composite.vbproj.SuggestedBindingRedirects.cache
+G:\Prime or Composite\obj\Debug\Prime_or_Composite.Resources.resources
+G:\Prime or Composite\obj\Debug\Prime or Composite.vbproj.GenerateResource.cache
+G:\Prime or Composite\obj\Debug\Prime or Composite.vbproj.CoreCompileInputs.cache
+G:\Prime or Composite\obj\Debug\Prime or Composite.exe
+G:\Prime or Composite\obj\Debug\Prime or Composite.xml
+G:\Prime or Composite\obj\Debug\Prime or Composite.pdb
